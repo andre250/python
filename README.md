@@ -1,2 +1,2 @@
 # python
-estudos em python
+Inicio de estudo em python
